@@ -1,0 +1,133 @@
+@media only screen and (max-width: 600px) {
+    body{
+        font-size: 10px !important;
+    }
+    .slider{
+        width: 100%;
+        background-size: cover;
+    }
+    .elements{
+        height: 350px;
+        width: 500px;
+        font-size: 10px !important;
+    }
+    .slider_link{
+        padding: 2px; 
+    }
+}
+@media only screen and (max-width: 500px) {
+    body{
+        font-size:9px !important;
+    }
+    .slider{
+        width: 100%;
+        background-size: cover;
+    }
+    .elements{
+        height: 350px;
+        width: 370px !important;
+        font-size:9px !important;
+    }
+    .slider_link{
+        padding: 3px; 
+    }
+    .slider_lst{
+        margin:0px;
+    }
+    .slider_lst i {
+        font-size: 18px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    body{
+        font-size: 8px !important;
+    }
+    .slider{
+        width: 100%;
+        background-size: cover;
+    }
+    .elements{
+        height: 350px;
+        width: 290px !important;
+        font-size: 8px !important;
+    }
+    .slider_link{
+        padding: 1px; 
+    }
+    .slider_lst{
+        margin:0px;
+    }
+    .slider_lst i {
+        font-size: 15px;
+    }
+}
+
+
+@media only screen and (min-width: 600px) {
+    body{
+        font-size: 10px !important;
+    }
+    .slider{
+        width: 100%;
+        background-size: cover;
+}
+    .elements{
+        height: 350px;
+        width: 550px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    body{
+        font-size: 10px !important;
+    }
+    
+    .slider{
+    width: 100%;
+    background-size: cover;
+}
+    .elements{
+        height: 350px;
+        width: 630px;
+    }
+
+}
+@media only screen and (min-width: 992px) {
+    body{
+        font-size: 11px !important;
+    }
+    .slider{
+        width: 100%;
+        background-size: cover;
+    }
+    .elements{
+        height: 350px;
+        width: 650px;
+    }
+}
+@media only screen and (min-width: 1024px) {
+    body{
+        font-size: 12px !important;
+    }
+    .slider{
+        width: 100%;
+        background-size: cover;
+    }
+    .elements{
+        height: 350px;
+        width: 700px;
+    }
+
+}
+@media only screen and (min-width: 1200px) {   
+    body{
+        font-size: 15px !important;
+    }
+    .slider{
+        width: 100%;
+        background-size: cover;
+}
+.elements{
+    height: 350px;
+    width: 750px;
+}
+}
